@@ -24,10 +24,11 @@ body{
 }
 
 .disabled {
+  background-color: #06c07c;
   border: none;
 }
 
 .topbutton:hover {
-  background-color: #04AA6D;
+  background-color: #06c07c;
   color: white;
 }
