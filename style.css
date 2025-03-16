@@ -9,6 +9,11 @@ body{
   height:70%;
 }
 
+.animated{
+  width:256px;
+  height:256px;
+}
+
 .topbutton {
   background-color: #04AA6D; /* Green */
   border: 2px solid green;
