@@ -3,3 +3,12 @@ body{
   text-align: center;
   background-color: rgb(200, 255, 200);
 }
+
+.topbutton {
+  transition-duration: 0.4s;
+}
+
+.topbutton:hover {
+  background-color: #04AA6D; /* Green */
+  color: white;
+}
