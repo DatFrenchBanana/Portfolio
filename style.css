@@ -6,7 +6,7 @@ body{
 
 .topbutton {
   background-color: #04AA6D; /* Green */
-  border: none;
+  border: 2px solid green;
   color: white;
   padding: 16px 32px;
   text-align: center;
@@ -16,6 +16,11 @@ body{
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
+}
+
+.disabled {
+  border: none;
+  cursor: not-allowed;
 }
 
 .topbutton:hover {
