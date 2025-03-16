@@ -9,6 +9,11 @@ body{
   height:70%;
 }
 
+.hedgehog{
+  width:40%;
+  height:40%;
+}
+
 .animated{
   width:256px;
   height:256px;
